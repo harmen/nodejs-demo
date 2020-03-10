@@ -1,0 +1,14 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harmen Fuite",
+  "license": "ISC",
+  "dependencies": {
+    "uppercase": "^2.0.0-beta.3"
+  }
+}
